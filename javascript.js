@@ -11,3 +11,8 @@ function cats(){
 };
 
 cats();
+
+let btn = document.querySelector("#searchBtn");
+btn.addEventListener('click',()=>{  
+        cats(); 
+} );
