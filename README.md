@@ -1,0 +1,1 @@
+This app generates a giphy page from GIPHY api 
