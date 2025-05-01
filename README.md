@@ -1,1 +1,1 @@
-This app generates a giphy page from GIPHY api 
+Using api from giphy for simple web app 
